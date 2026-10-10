@@ -1,0 +1,6 @@
+{
+  "chunks": [
+    {"source_id": "synthetic-study-demo", "title": "Synthetic study methods example", "start": 0, "end": 12, "text": "This is a fabricated demonstration transcript. Spaced repetition revisits material at increasing intervals."},
+    {"source_id": "synthetic-study-demo", "title": "Synthetic study methods example", "start": 12, "end": 24, "text": "Active recall means trying to retrieve an answer before consulting notes. This example is synthetic and contains no lecture recording."}
+  ]
+}
